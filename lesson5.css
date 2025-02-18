@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+body {
+    background-color: #d8d2d2;
+    margin-left: 28px;
+}
+header {
+    font-size: 18px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.work-container {
+    width: 60%;
+}
+.content {
+    display: flex;
+    gap: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid white;
+    margin-bottom: 20px;
+}
+.text h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+img {
+    border-radius: 5px;
+}
+.years span {
+    font-size: 16px;
+    margin-left: 10px;
+}
+.down {
+    text-align: center;
+}
+
+.mxh {
+    margin-bottom: 20px;
+}
+.years p {
+    margin-top: 20px;
+    font-size: 20px;
+}
+.mxh i {
+    width: 30px;
+    color: #3d426d;
+}
+.down p {
+    margin-bottom: 20px;
+}
+.years button {
+    font-size: 12px;
+    padding: 6px;
+    color: white;
+    border-radius: 15px;
+    background-color: #1d386f;
+    border: none;
+}
